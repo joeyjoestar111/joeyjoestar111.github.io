@@ -19,7 +19,7 @@ url                      : https://joeyjoestar111.github.io # the base hostname 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/pic.jpg
+  avatar           : "pic.jpg"
   name             : "Junyu Deng"
   pronouns         : "he/him"  
   bio              : "Fudan University"
