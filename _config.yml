@@ -19,10 +19,10 @@ url                      : https://joeyjoestar111.github.io # the base hostname 
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic.jpg"
+  avatar           : /images/pic.jpg
   name             : "Junyu Deng"
   pronouns         : "he/him"  
-  bio              : "Undergraduate in Artificial Intelligence and Computer Science at Fudan University"
+  bio              : "Fudan University"
   location         : "Shanghai"
   employer         : 
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-6313-7378"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
